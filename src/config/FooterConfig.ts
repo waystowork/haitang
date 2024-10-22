@@ -55,5 +55,5 @@ export const footerConfig = {
         // { ariaLabel: 'Facebook', icon: 'tabler:brand-facebook', href: '#' },
         // { ariaLabel: 'RSS', icon: 'tabler:rss', href: '/rss.xml' },
     ],
-    footNote: '© 2024 All Rights Reserved.',
+    footNote: '© 2024 数字诗社 All Rights Reserved. 来源于开源项目海棠诗社',
 };
